@@ -1,0 +1,14 @@
+﻿# Virtual environment — never commit, it is large and machine-specific
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+
+# Raw vendor price data is not redistributed (Yahoo Finance terms).
+# Regenerate with: python src/01_pull_data.py
+data/prices.parquet
+data/prices.csv
+
+# Personal explainers contain account-level figures — keep these local
+study-explained*.md

@@ -1,0 +1,9 @@
+rows: 3981   cols: 18
+range: 2010-11-05 -> 2026-09-04
+duplicate dates: 0
+index sorted: True
+columns with NaNs: none
+non-positive prices: 0
+daily moves >25%: 0
+
+NOTE: a >25% move is flagged for eyeballing, not auto-rejected. March 2020 legitimately produced some.

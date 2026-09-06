@@ -1,0 +1,8 @@
+# What I ran this on: Python 3.13.15, Windows 11, 5 September 2026.
+# Pinned so the numbers stay reproducible. Only loosen these on purpose.
+numpy==2.5.2
+pandas==3.0.5
+yfinance==1.7.0
+matplotlib==3.11.1
+pyarrow==25.0.1
+jupyter==1.1.1
